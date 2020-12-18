@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<restaurants
+        xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+
+        xs:schemaLocation="http://www.example.org/rest/pom.xsd">
+
+    <restaurant id = "1">
+
+        <name>Bistro</name>
+        <nameDish>Meat</nameDish>
+        <price>5</price>
+        <cuisine>Italy</cuisine>
+        <street>Bohdanovicha</street>
+        <hall>3</hall>
+
+    </restaurant>
+
+
+
+    <restaurant id = "2">
+        <name>LA-LA-LA</name>
+        <nameDish >Potato</nameDish>
+        <price>10</price>
+        <cuisine>French</cuisine>
+        <street>Surganova</street>
+        <hall>2</hall>
+    </restaurant>
+
+
+    <restaurant id = "3">
+        <name >Mom</name>
+        <nameDish>Borscht</nameDish>
+        <price>15</price>
+        <cuisine>Russia</cuisine>
+        <street>Ykuba Kolasa</street>
+        <hall>1</hall>
+    </restaurant>
+</restaurants>
+
+
+

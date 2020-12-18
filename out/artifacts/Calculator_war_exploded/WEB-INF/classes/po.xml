@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<restaurants
+        xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+
+        xs:schemaLocation="http://www.example.org/rest/pom.xsd">
+
+    <restaurant id = "1">
+
+        <name>CИПАЦЦО</name>
+        <nameDish>Мясо</nameDish>
+        <price>5</price>
+        <cuisine>Италия</cuisine>
+        <street>Богдановича</street>
+        <hall>3</hall>
+
+    </restaurant>
+
+
+
+    <restaurant id = "2">
+        <name>ЛЯ-ЛЯ-ЛЯ</name>
+        <nameDish >Картошка</nameDish>
+        <price>10</price>
+        <cuisine>Франция</cuisine>
+        <street>Сурганова</street>
+        <hall>2</hall>
+    </restaurant>
+
+
+    <restaurant id = "3">
+        <name >У мамы</name>
+        <nameDish>Борщ</nameDish>
+        <price>15</price>
+        <cuisine>Россия</cuisine>
+        <street>Якуба Коласа</street>
+        <hall>1</hall>
+    </restaurant>
+</restaurants>
+
+
